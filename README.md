@@ -32,13 +32,10 @@ The API is designed to provide a reliable and secure backend layer for the Sport
 
 ## 🌐 Live Project
 
-### Frontend
+### Live Link 
 
 🔗 https://sport-frontend-gray.vercel.app
 
-### Backend API
-
-🔗 Add your deployed backend API URL here
 
 ---
 
